@@ -1,7 +1,6 @@
 # chat room server and client
 
-server is written in node.js
-client is written in js with react
+server is written in node.js, client is written in js with react
 
 ### installation and testing
 
